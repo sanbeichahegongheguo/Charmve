@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📈 My GitHub Stats：
+
 <p align="center">
   <a href="https://github.com/sanbeichahegongheguo" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=sanbeichahegongheguo&title_color=333&text_color=777" alt="sanbeichahegongheguo's Stats" >
@@ -25,6 +27,7 @@ Here are some ideas to get you started:
 </p>
 
   <br><br>
+<p align="center">
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/sanbeichahegongheguo">
@@ -42,9 +45,10 @@ Here are some ideas to get you started:
 </p>
 
 <h2></h2>
-
+<p align="center">
 - 🔭 I’m currently working on a website.
-- 🌱 I’m currently learning Sklearn.
+- 🌱 I’m currently learning [Sklearn](https://sklearn.apachecn.org/).
+</p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
