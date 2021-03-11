@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats：
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/sanbeichahegongheguo" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=sanbeichahegongheguo&title_color=333&text_color=777" alt="sanbeichahegongheguo's Stats" >
     <!-- &hide=issues
@@ -25,6 +25,11 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
+
+- :orange_book: Focusing on Python, Swift & iOS.
+- :hammer: Creator of some applications, websites and frameworks.
+- :ram: Focus on Health.
+- :meat_on_bone: Meat lover.
 
   <br><br>
 <p align="center">
