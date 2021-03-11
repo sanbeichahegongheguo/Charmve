@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats：
 
-<p align="right">
+<p align="left">
   <a href="https://github.com/sanbeichahegongheguo" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=sanbeichahegongheguo&title_color=333&text_color=777" alt="sanbeichahegongheguo's Stats" >
     <!-- &hide=issues
@@ -26,10 +26,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<p align="left">
 - :orange_book: Focusing on Python, Swift & iOS.
 - :hammer: Creator of some applications, websites and frameworks.
 - :ram: Focus on Health.
 - :meat_on_bone: Meat lover.
+</p>
 
   <br><br>
 <p align="center">
@@ -50,10 +52,10 @@ Here are some ideas to get you started:
 </p>
 
 <h2></h2>
-<p align="center">
+
 - 🔭 I’m currently working on a website.
 - 🌱 I’m currently learning [Sklearn](https://sklearn.apachecn.org/).
-</p>
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,6 +78,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 
 
+<p align="center">
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
@@ -86,6 +89,7 @@ Markdown   34 mins          █▓░░░░░░░░░░░░░░░�
 C++        1 hr 11 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 <!--END_SECTION:waka-->
+</p>
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈  
 
