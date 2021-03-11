@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 <h2></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a website.
+- 🌱 I’m currently learning Sklearn.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
