@@ -78,13 +78,40 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+19 hrs 8 mins from [Mon Mar 1st until Sun Mar 7th]
 
+Projects:
 ```text
-Python     3 hr  7 mins     ████████████░░░░░░░░░░░░░   32.61 % 
-Flask      2 hr 37 mins     █████████░░░░░░░░░░░░░░░░   12.61 % 
-Others     38 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Markdown   34 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-C++        1 hr 11 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+myFsite	           15 hrs 57 mins
+todoism	            1 hr 25 mins
+Unknown Project	    1 hr 19 mins
+LoveIt	                 20 mins
+hugo-theme-next	          5 mins
+```
+
+Languages:
+```text
+Python	         9 hrs 3 mins      ████████████░░░░░░░░░░░░░    47.31%
+HTML	        8 hrs 18 mins      ██████████░░░░░░░░░░░░░░░    43.40%
+Other	        1 hr  29 mins      ████░░░░░░░░░░░░░░░░░░░░░     7.83%
+JavaScript	          10 mins      ████░░░░░░░░░░░░░░░░░░░░░     0.88%
+Git Config	           6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░     0.54%
+Sublime Text Config      0m        ░░░░░░░░░░░░░░░░░░░░░░░░░     0.04%
+```
+
+Editors:
+```text
+Sublime Text	19 hrs 8 mins
+```
+
+Operating Systems:
+```text
+Windows	        19 hrs 8 mins
+```
+
+Categories:
+```text
+Coding	        19 hrs 8 mins
 ```
 <!--END_SECTION:waka-->
 
@@ -98,6 +125,8 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 <h2></h2>
 
 🚧 **My Todoist Stats: ⬇️**
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=PaperWeeklyAI)](https://github.com/sanbeichahegongheguo/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=Surface-Defect-Detection)](https://github.com/sanbeichahegongheguo/Surface-Defect-Detection)
--->
+
+[![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=sanbeichahegongheguo.github.io )](https://github.com/sanbeichahegongheguo/sanbeichahegongheguo.github.io ) 
+
+[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=Advanced-Machine-Learning---Notebooks)](https://github.com/sanbeichahegongheguo/Advanced-Machine-Learning---Notebooks)
+
