@@ -91,11 +91,11 @@ hugo-theme-next	          5 mins
 
 Languages:
 ```text
-Python	         9 hrs 03 mins      ████████████░░░░░░░░░░░░░    47.31%
-HTML	           8 hrs 18 mins      ██████████░░░░░░░░░░░░░░░    43.40%
-Other	           1 hr  29 mins      ████░░░░░░░░░░░░░░░░░░░░░     7.83%
-JavaScript	           10 mins      ████░░░░░░░░░░░░░░░░░░░░░     0.88%
-Git Config	            6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░     0.54%
+Python           9 hrs 03 mins      ████████████░░░░░░░░░░░░░    47.31%
+HTML             8 hrs 18 mins      ██████████░░░░░░░░░░░░░░░    43.40%
+Other            1 hr  29 mins      ████░░░░░░░░░░░░░░░░░░░░░     7.83%
+JavaScript             10 mins      ████░░░░░░░░░░░░░░░░░░░░░     0.88%
+Git Config              6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░     0.54%
 Sublime Text Config     0 s         ░░░░░░░░░░░░░░░░░░░░░░░░░     0.04%
 ```
 
