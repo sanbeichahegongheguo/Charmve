@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 - :hammer: Creator of some applications, websites and frameworks.
 - :ram: Focus on Health.
 - :meat_on_bone: Meat lover.
-
-
   <br><br>
 <p align="center">
   <strong>Check out my work below!</strong>
