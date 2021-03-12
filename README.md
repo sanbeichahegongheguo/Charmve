@@ -126,7 +126,7 @@ If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉
 
 🚧 **My Todoist Stats: ⬇️**
 
-[![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=sanbeichahegongheguo.github.io )](https://github.com/sanbeichahegongheguo/sanbeichahegongheguo.github.io ) 
+[![mypages](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=sanbeichahegongheguo.github.io )](https://github.com/sanbeichahegongheguo/sanbeichahegongheguo.github.io ) 
 
-[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=Advanced-Machine-Learning---Notebooks)](https://github.com/sanbeichahegongheguo/Advanced-Machine-Learning---Notebooks)
+[![Advanced-Machine-Learning---Notebooks](https://github-readme-stats.vercel.app/api/pin/?username=sanbeichahegongheguo&repo=Advanced-Machine-Learning---Notebooks)](https://github.com/sanbeichahegongheguo/Advanced-Machine-Learning---Notebooks)
 
