@@ -26,12 +26,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p align="left">
 - :orange_book: Focusing on Python, Swift & iOS.
 - :hammer: Creator of some applications, websites and frameworks.
 - :ram: Focus on Health.
 - :meat_on_bone: Meat lover.
-</p>
+
 
   <br><br>
 <p align="center">
@@ -77,10 +76,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 
-
-<p align="center">
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
 ```text
 Python     3 hr  7 mins     ████████████░░░░░░░░░░░░░   32.61 % 
 Flask      2 hr 37 mins     █████████░░░░░░░░░░░░░░░░   12.61 % 
@@ -89,7 +87,7 @@ Markdown   34 mins          █▓░░░░░░░░░░░░░░░�
 C++        1 hr 11 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 <!--END_SECTION:waka-->
-</p>
+
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈  
 
