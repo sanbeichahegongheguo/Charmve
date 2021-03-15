@@ -83,7 +83,7 @@ Projects:
 myFsite               12 hrs 56 mins
 Unknown Project        2 hrs 29 mins
 hello-hugo             1 hrs 30 mins
-flask_stock				     4 mins
+flask_stock                   4 mins
 ```
 
 Languages:
