@@ -76,40 +76,39 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-19 hrs 8 mins from [Mon Mar 1st until Sun Mar 7th]
+17 hrs from [[Mon Mar 8th until Sun Mar 14th  2021]]
 
 Projects:
 ```text
-myFsite	           15 hrs 57 mins
-todoism	            1 hr 25 mins
-Unknown Project	    1 hr 19 mins
-LoveIt	                 20 mins
-hugo-theme-next	          5 mins
+myFsite               12 hrs 56 mins
+Unknown Project        2 hrs 29 mins
+hello-hugo             1 hrs 30 mins
+flask_stock				     4 mins
 ```
 
 Languages:
 ```text
-Python           9 hrs 03 mins      ████████████░░░░░░░░░░░░░    47.31%
-HTML             8 hrs 18 mins      ██████████░░░░░░░░░░░░░░░    43.40%
-Other            1 hr  29 mins      ████░░░░░░░░░░░░░░░░░░░░░     7.83%
+Python           6 hrs 38 mins      ████████████░░░░░░░░░░░░░    47.31%
+HTML             7 hrs 22 mins      ██████████░░░░░░░░░░░░░░░    43.40%
+Other            1 hr  24 mins      ████░░░░░░░░░░░░░░░░░░░░░     7.83%
 JavaScript             10 mins      ████░░░░░░░░░░░░░░░░░░░░░     0.88%
-Git Config              6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░     0.54%
+Git                    11 mins      ██░░░░░░░░░░░░░░░░░░░░░░░     0.54%
 Sublime Text Config     0 s         ░░░░░░░░░░░░░░░░░░░░░░░░░     0.04%
 ```
 
 Editors:
 ```text
-Sublime Text	19 hrs 8 mins
+Sublime Text	17 hrs
 ```
 
 Operating Systems:
 ```text
-Windows	        19 hrs 8 mins
+Windows	        17 hrs
 ```
 
 Categories:
 ```text
-Coding	        19 hrs 8 mins
+Coding	        17 hrs
 ```
 <!--END_SECTION:waka-->
 
