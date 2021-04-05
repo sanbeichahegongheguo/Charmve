@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-17 hrs from [[Mon Mar 8th until Sun Mar 14th  2021]]
+18 hrs  24 mins from [[Mon Mar 29th until Sun Apr 4th  2021]]
 
 Projects:
 ```text
@@ -84,6 +84,7 @@ myFsite               12 hrs 56 mins
 Unknown Project        2 hrs 29 mins
 hello-hugo             1 hrs 30 mins
 flask_stock                   4 mins
+manim                  1 hrs 30 mins 
 ```
 
 Languages:
@@ -94,16 +95,17 @@ Other            1 hr  24 mins      ████░░░░░░░░░░�
 JavaScript             10 mins      ████░░░░░░░░░░░░░░░░░░░░░     0.88%
 Git                    11 mins      ██░░░░░░░░░░░░░░░░░░░░░░░     0.54%
 Sublime Text Config     0 s         ░░░░░░░░░░░░░░░░░░░░░░░░░     0.04%
+manim            1 hr  24 mins      ████░░░░░░░░░░░░░░░░░░░░░     7.83%
 ```
 
 Editors:
 ```text
-Sublime Text	17 hrs
+Sublime Text	18 hrs  24 mins
 ```
 
 Operating Systems:
 ```text
-Windows	        17 hrs
+Windows	        18 hrs  24 mins
 ```
 
 Categories:
