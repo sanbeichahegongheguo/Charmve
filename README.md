@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a website.
 - 🌱 I’m currently learning [Sklearn](https://sklearn.apachecn.org/).
+- ⚡ Thanks  [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) for `自动在 GitHub 个人首页展示编程时长的工具。该项目通过 WakaTime 记录用户在 IDE 的使用时间，统计编程时长和数据，然后采用 GitHub Action 自动获取并动态更新到 GitHub 个人首页。轻而易举地展示自己的编程时长。`
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220"/>&nbsp;&nbsp;&nbsp;&nbsp;
