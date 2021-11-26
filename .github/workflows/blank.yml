@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: sanbeichahegongheguo/sanbeichahegongheguo@master
         with:
-          WAKATIME_API_KEY: 58e9ab15-50f4-4bbe-80c5-5a06b7a8ebab
-          GH_TOKEN: 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
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
