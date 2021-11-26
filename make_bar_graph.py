@@ -85,7 +85,7 @@ class BarGraph:
             y=alt.Y('sum(values):Q',
                     axis=alt.Axis(
                         grid=False,
-                        title='LOC added')),
+                        title='Lines Of Code added')),
 
             # tell Altair which field to use to use as the set of columns to be  represented in each group
             column=alt.Column('c1:N', title=None),
