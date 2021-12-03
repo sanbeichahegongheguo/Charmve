@@ -1,5 +1,7 @@
 ### Hi, My page is <a href="https://sanbeichahegongheguo.github.io/" target="_blank">there</a> 👋
 
+![Alt](https://repobeats.axiom.co/api/embed/b48c54f5886848177ded940be53aca59bcfbdca9.svg "Repobeats analytics image")
+
 <!--
 **sanbeichahegongheguo/sanbeichahegongheguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
