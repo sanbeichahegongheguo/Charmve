@@ -4,6 +4,8 @@
 
 In 2021, I made 244 contributions and modified 21,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/sanbeichahegongheguo
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/sanbeichahegongheguo/langs?time_range=one_year&loc_metric=changed&theme=classic)](https://githubtrends.io)
+
 <!--
 **sanbeichahegongheguo/sanbeichahegongheguo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
