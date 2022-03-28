@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -126,19 +126,19 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    29 hrs 31 mins      █████████████████████████   99.95% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Other                    32 hrs 34 mins      █████████████████████████   99.96% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-Browser                  29 hrs 31 mins      █████████████████████████   99.95% 
+Browser                  32 hrs 34 mins      █████████████████████████   99.95% 
 Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🐱‍💻 Projects: 
-k-means-and-dtw          29 hrs 31 mins      █████████████████████████   99.95% 
+k-means-and-dtw          32 hrs 34 mins      █████████████████████████   99.95% 
 2.5.3                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 💻 Operating System: 
-Windows                  29 hrs 32 mins      █████████████████████████   100.0%
+Windows                  32 hrs 35 mins      █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +159,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sanbeichahegongheguo/sanbeichahegongheguo/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/03/2022
+ Last Updated on 28/03/2022
 <!--END_SECTION:waka-->
 
 
