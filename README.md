@@ -126,16 +126,21 @@ Sunday       19 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   59 mins             █████████████░░░░░░░░░░░░   54.81% 
+Other                    43 mins             ██████████░░░░░░░░░░░░░░░   40.55% 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             59 mins             █████████████░░░░░░░░░░░░   54.81% 
+Browser                  43 mins             ██████████░░░░░░░░░░░░░░░   40.55% 
+VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+k-means-and-dtw          1 hr 17 mins        ██████████████████░░░░░░░   71.76% 
+practice                 30 mins             ███████░░░░░░░░░░░░░░░░░░   28.24%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 47 mins        █████████████████████████   100.0%
 
 ```
 
@@ -156,7 +161,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/sanbeichahegongheguo/sanbeichahegongheguo/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/04/2022
+ Last Updated on 22/04/2022
 <!--END_SECTION:waka-->
 
 
