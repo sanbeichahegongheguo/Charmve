@@ -122,7 +122,7 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+⌚︎ Time Zone: Asia/Shenzhen
 
 💬 Programming Languages: 
 Other                    37 mins             ███████████████░░░░░░░░░░   61.95% 
