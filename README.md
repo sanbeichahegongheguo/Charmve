@@ -87,15 +87,10 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 🏆 65 Contributions in the Year 2022
- > 
 > 📦 872.0 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
 > 📜 71 Public Repositories 
- > 
 > 🔑 4 Private Repositories  
- > 
+
 **I'm a Night 🦉** 
 
 ```text
